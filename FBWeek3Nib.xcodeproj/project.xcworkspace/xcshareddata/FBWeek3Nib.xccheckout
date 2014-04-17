@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06D5D710-657C-4D43-ACEB-85D5276389FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FBWeek3Nib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0AF6327-F748-41D8-88CA-E2D05DB4C167</key>
+		<string>https://github.com/yoshyosh/FBWeek2Nib.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FBWeek3Nib.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0AF6327-F748-41D8-88CA-E2D05DB4C167</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yoshyosh/FBWeek2Nib.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0AF6327-F748-41D8-88CA-E2D05DB4C167</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0AF6327-F748-41D8-88CA-E2D05DB4C167</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FBWeek3Nib</string>
+		</dict>
+	</array>
+</dict>
+</plist>
